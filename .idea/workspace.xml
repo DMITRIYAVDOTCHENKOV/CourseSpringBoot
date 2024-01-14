@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13c8064d-07aa-45d4-8c67-cbf2d1d4a579" name="Changes" comment="Домашняя работа по 1 семинару">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam2Sem2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam2Sem2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam2Sem2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam2Sem2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam2Sem2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam2Sem2/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam2Sem2/src/main/java/org/example/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam2Sem2/src/main/java/org/example/domain/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam2Sem2/src/main/java/org/example/domain/Engin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/src/main/java/org/example/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/src/main/java/org/example/domain/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/src/main/java/org/example/domain/DiselEngin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/src/main/java/org/example/domain/GasolinEngin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/src/main/java/org/example/domain/iEngin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam4Sem2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam4Sem2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam4Sem2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam4Sem2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam4Sem2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam4Sem2/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam4Sem2/src/main/java/org/example/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam4Sem2/src/main/java/org/example/services/CommentService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="seminar1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="Spring_Spring_Boot_hw2" />
+                    <option name="lastUsedInstant" value="1705254542" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="seminar1" />
+                    <option name="lastUsedInstant" value="1705254541" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2a5fmHoVRoMjiVQPvBg5IpPpv4Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DemoApplication.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.seminar_2.Main.executor": "Run",
+    "Application.seminar_2.seminar_2_1.config.Exam2Sem2.src.main.java.org.example.Main.executor": "Run",
+    "Application.seminar_2.seminar_2_1.config.Exam4Sem2.src.main.java.org.example.Main (1).executor": "Run",
+    "Application.seminar_2.seminar_2_1.config.Exam4Sem2.src.main.java.org.example.Main.executor": "Run",
+    "Application.seminar_2.seminar_2_1.config.Main.executor": "Run",
+    "Application.seminar_2.seminar_2_2.Main.executor": "Run",
+    "Application.test.Main.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Maven.CourseSpringBoot [package].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.DemoApplication.executor": "Run",
+    "dart.analysis.tool.window.visible": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Java/java_Project/CourseSpringBoot",
+    "mysql-explain.agentPath": "C:\\Users\\Dmitrii\\AppData\\Roaming\\JetBrains\\IdeaIC2023.3\\plugins\\mysql-explain-intellij-plugin\\lib\\mysql-explain-agent-1.1.1-with-dependencies.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "h2",
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\java_Project\CourseSpringBoot\src\main\java\seminar_2\seminar_2_1\config" />
+      <recent name="D:\Java\java_Project\CourseSpringBoot\src\main\java\seminar_2\seminar_2_1\seminar_2_2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="Exam4Sem2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="Exam3Sem2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="Exam2Sem2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="seminar_2.seminar_2_1.config.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminar_2.seminar_2_1.config.Main" />
+      <module name="CourseSpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seminar_2.seminar_2_1.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoApplication" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.seminar_2.seminar_2_1.config.Main" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13c8064d-07aa-45d4-8c67-cbf2d1d4a579" name="Changes" comment="" />
+      <created>1703613523052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703613523052</updated>
+      <workItem from="1705237300247" duration="8788000" />
+    </task>
+    <task id="LOCAL-00001" summary="Домашняя работа по 1 семинару">
+      <option name="closed" value="true" />
+      <created>1703784596537</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703784596537</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Домашняя работа по 1 семинару" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашняя работа по 1 семинару" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.beans.factory.NoSuchBeanDefinitionException" package="org.springframework.beans.factory" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
