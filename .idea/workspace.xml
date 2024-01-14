@@ -4,38 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13c8064d-07aa-45d4-8c67-cbf2d1d4a579" name="Changes" comment="Домашняя работа по 1 семинару">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam2Sem2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam2Sem2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam2Sem2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam2Sem2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam2Sem2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam2Sem2/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam2Sem2/src/main/java/org/example/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam2Sem2/src/main/java/org/example/domain/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam2Sem2/src/main/java/org/example/domain/Engin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/src/main/java/org/example/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/src/main/java/org/example/domain/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/src/main/java/org/example/domain/DiselEngin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/src/main/java/org/example/domain/GasolinEngin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam3Sem2/src/main/java/org/example/domain/iEngin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam4Sem2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam4Sem2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam4Sem2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam4Sem2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam4Sem2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam4Sem2/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam4Sem2/src/main/java/org/example/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/seminar_2_1/config/Exam4Sem2/src/main/java/org/example/services/CommentService.java" afterDir="false" />
+    <list default="true" id="13c8064d-07aa-45d4-8c67-cbf2d1d4a579" name="Changes" comment="семинар 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="seminar1" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,8 +39,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="Spring_Spring_Boot_hw2" />
-                    <option name="lastUsedInstant" value="1705254542" />
+                    <option name="branchName" value="seminar2" />
+                    <option name="lastUsedInstant" value="1705255508" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="seminar1" />
@@ -98,6 +68,7 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2a5fmHoVRoMjiVQPvBg5IpPpv4Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -126,6 +97,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.DemoApplication.executor": "Run",
     "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "seminar2",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Java/java_Project/CourseSpringBoot",
     "mysql-explain.agentPath": "C:\\Users\\Dmitrii\\AppData\\Roaming\\JetBrains\\IdeaIC2023.3\\plugins\\mysql-explain-intellij-plugin\\lib\\mysql-explain-agent-1.1.1-with-dependencies.jar",
@@ -251,7 +223,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703613523052</updated>
-      <workItem from="1705237300247" duration="8788000" />
+      <workItem from="1705237300247" duration="12973000" />
     </task>
     <task id="LOCAL-00001" summary="Домашняя работа по 1 семинару">
       <option name="closed" value="true" />
@@ -261,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703784596537</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="семинар 2">
+      <option name="closed" value="true" />
+      <created>1705255545897</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705255545897</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,7 +260,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Домашняя работа по 1 семинару" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашняя работа по 1 семинару" />
+    <MESSAGE value="семинар 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="семинар 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
