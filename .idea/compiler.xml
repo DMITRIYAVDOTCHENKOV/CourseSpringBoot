@@ -6,16 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="CourseSpringBoot" />
-        <module name="Exam2Sem2" />
-        <module name="Exam3Sem2" />
-        <module name="Exam4Sem2" />
         <module name="demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="CourseSpringBoot" target="20" />
-      <module name="demo" target="21" />
       <module name="Exam2Sem2" target="15" />
       <module name="Exam3Sem2" target="15" />
       <module name="Exam4Sem2" target="15" />
